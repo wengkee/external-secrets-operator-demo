@@ -14,11 +14,11 @@
 
 1. Create a programatic access user and generate Access Key & Secret Access Key.
 
-2. Create a custom policy and attach to this user, refer to `aws-policy.json`
+2. Create a custom policy and attach to this user, refer to [aws-policy.json](aws/aws-policy.json)
 
 3. Create a dummy secret in AWS SM.
 
-    ![Alt text](img/ss-1.jpg)
+    ![Alt text](aws/ss-1.jpg)
 
 4. Test out using `aws cli`
 
